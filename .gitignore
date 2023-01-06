@@ -14,7 +14,7 @@ env/
 *.sqlite3
 .idea/
 # Project asset folders
-media/
+media_files/
 # Database
 db.sqlite3
 # Editor directories and files
